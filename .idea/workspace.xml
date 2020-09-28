@@ -276,12 +276,24 @@
       <workItem from="1600996534505" duration="3587000" />
       <workItem from="1601210020167" duration="413000" />
       <workItem from="1601210463783" duration="616000" />
-      <workItem from="1601303211832" duration="225000" />
+      <workItem from="1601303211832" duration="825000" />
     </task>
+    <task id="LOCAL-00001" summary="分布式锁">
+      <created>1601303653633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601303653634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分布式锁" />
+    <option name="LAST_COMMIT_MESSAGE" value="分布式锁" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="24" key="#Auto_Import" timestamp="1600542612211">
@@ -292,6 +304,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600537650204" />
+    <state x="182" y="0" key="CommitChangelistDialog2" timestamp="1601303652730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="182" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601303652730" />
     <state width="398" height="438" key="DebuggerActiveHint" timestamp="1600998466817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -336,6 +352,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600542769378" />
+    <state x="275" y="87" key="Vcs.Push.Dialog.v2" timestamp="1601304038099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601304038099" />
     <state x="375" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1601303213022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
